@@ -1,0 +1,194 @@
+
+1squid:S3751"Make this method "public".(¸ò€Ÿ
+_squid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÖİÅ
+1squid:S3751"Make this method "public".(æÄ™»
+dsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(è°¾ıüÿÿÿÿ
+6squid:S3751"Make this method "public".(û”ôÛıÿÿÿÿ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û”ôÛıÿÿÿÿ
+dsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ãÂŒñıÿÿÿÿ
+6squid:S3751!"Make this method "public".(éİœÑøÿÿÿÿ
+ksquid:S00100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éİœÑøÿÿÿÿ
+dsquid:S4488 "HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ªŞöèúÿÿÿÿ
+6squid:S3751'"Make this method "public".(çæö®üÿÿÿÿ
+ksquid:S00100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çæö®üÿÿÿÿ
+_squid:S4488&"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‚¹Ù±
+0squid:S3751-"Make this method "public".(µ¼Ú"
+esquid:S00100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¼Ú"
+dsquid:S4488,"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(İÄøÚüÿÿÿÿ
+6squid:S37513"Make this method "public".(×ÔÏ§ÿÿÿÿÿ
+ksquid:S001003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÔÏ§ÿÿÿÿÿ
+_squid:S44882"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÀüÇ•
+1squid:S37519"Make this method "public".(¾ ùÓ
+fsquid:S001009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ ùÓ
+_squid:S44888"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(±áÿŒ
+6squid:S3751?"Make this method "public".(Û¶¥üüÿÿÿÿ
+dsquid:S4488>"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(“¥‡÷ıÿÿÿÿ
+1squid:S3751E"Make this method "public".(®¦ˆÅ
+fsquid:S00100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¦ˆÅ
+dsquid:S4488D"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ä³¿¹üÿÿÿÿ
+1squid:S3751K"Make this method "public".(óôò
+fsquid:S00100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óôò
+_squid:S4488J"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(³éù×
+1squid:S3751Q"Make this method "public".(Í¡—ä
+fsquid:S00100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¡—ä
+_squid:S4488P"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ïâ˜®
+1squid:S3751W"Make this method "public".(óºÿ‚
+fsquid:S00100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óºÿ‚
+dsquid:S4488V"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(±î¥–ıÿÿÿÿ
+6squid:S3751]"Make this method "public".(Ñ¤ŞÇüÿÿÿÿ
+ksquid:S00100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¤ŞÇüÿÿÿÿ
+dsquid:S4488\"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(–‘¥ÿÿÿÿÿ
+1squid:S3751c"Make this method "public".(åœÏÈ
+fsquid:S00100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åœÏÈ
+dsquid:S4488b"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¾ ù«şÿÿÿÿ
+6squid:S3751i"Make this method "public".(™«‰ˆÿÿÿÿÿ
+ksquid:S00100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™«‰ˆÿÿÿÿÿ
+_squid:S4488h"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‡
+1squid:S3751o"Make this method "public".(áÊç
+fsquid:S00100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÊç
+dsquid:S4488n"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ñıâûÿÿÿÿ
+6squid:S3751u"Make this method "public".(„çã´úÿÿÿÿ
+ksquid:S00100u"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„çã´úÿÿÿÿ
+_squid:S4488t"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(–•·Ş
+1squid:S3751{"Make this method "public".(ç€¦–
+fsquid:S00100{"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç€¦–
+_squid:S4488z"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ùäúÓ
+2squid:S3751"Make this method "public".(Ï¹Ô
+gsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¹Ô
+`squid:S4488€"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(†¹Ó—
+2squid:S3751‡"Make this method "public".(áâ»½
+gsquid:S00100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áâ»½
+esquid:S4488†"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(´…’ûÿÿÿÿ
+7squid:S3751"Make this method "public".(­à½øúÿÿÿÿ
+lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­à½øúÿÿÿÿ
+esquid:S4488Œ"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ü©ôšÿÿÿÿÿ
+2squid:S3751“"Make this method "public".(ìĞ„
+gsquid:S00100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìĞ„
+`squid:S4488’"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ì›¨Ë
+7squid:S3751™"Make this method "public".(ÕĞèÇøÿÿÿÿ
+lsquid:S00100™"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕĞèÇøÿÿÿÿ
+`squid:S4488˜"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‡¶¬ö
+7squid:S3751Ÿ"Make this method "public".(Øéêäÿÿÿÿÿ
+lsquid:S00100Ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øéêäÿÿÿÿÿ
+`squid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(»‘¸ï
+7squid:S3751¥"Make this method "public".(É®Ÿ´øÿÿÿÿ
+lsquid:S00100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É®Ÿ´øÿÿÿÿ
+`squid:S4488¤"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÖÑ”³
+2squid:S3751«"Make this method "public".(‹¦¡¤
+gsquid:S00100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¦¡¤
+`squid:S4488ª"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ìå±Ÿ
+7squid:S3751±"Make this method "public".(½¸ºîıÿÿÿÿ
+lsquid:S00100±"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¸ºîıÿÿÿÿ
+`squid:S4488°"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(»ğü
+7squid:S3751·"Make this method "public".(“ Âøÿÿÿÿ
+lsquid:S00100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ Âøÿÿÿÿ
+`squid:S4488¶"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(µ—ÿû
+2squid:S3751½"Make this method "public".(ÀöŒä
+gsquid:S00100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀöŒä
+`squid:S4488¼"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¸õ²ª
+2squid:S3751Ã"Make this method "public".(ÚŸ®È
+esquid:S4488Â"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ø¥•şùÿÿÿÿ
+7squid:S3751É"Make this method "public".(êïú­ıÿÿÿÿ
+lsquid:S00100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êïú­ıÿÿÿÿ
+`squid:S4488È"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Èü‡
+2squid:S3751Ï"Make this method "public".(ß½»¾
+gsquid:S00100Ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß½»¾
+esquid:S4488Î"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ù ÿ…úÿÿÿÿ
+2squid:S3751Õ"Make this method "public".(·å¹ñ
+gsquid:S00100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·å¹ñ
+`squid:S4488Ô"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ä§©
+7squid:S3751Û"Make this method "public".(©Í˜ùÿÿÿÿ
+lsquid:S00100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Í˜ùÿÿÿÿ
+esquid:S4488Ú"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¿Ü‘‹ÿÿÿÿÿ
+2squid:S3751á"Make this method "public".(¸ı’›
+gsquid:S00100á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ı’›
+esquid:S4488à"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ìŠşæùÿÿÿÿ
+2squid:S3751ç"Make this method "public".(öÙ·
+gsquid:S00100ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÙ·
+esquid:S4488æ"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÄÆö´ûÿÿÿÿ
+2squid:S3751í"Make this method "public".(Ï½Ê«
+gsquid:S00100í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï½Ê«
+`squid:S4488ì"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(±£’Ò
+7squid:S3751ó"Make this method "public".(¾şç¥şÿÿÿÿ
+lsquid:S00100ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾şç¥şÿÿÿÿ
+`squid:S4488ò"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÏÒ«Ñ
+2squid:S3751ù"Make this method "public".(˜øØñ
+gsquid:S00100ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜øØñ
+_squid:S4488ø"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ºòã]
+7squid:S3751ÿ"Make this method "public".(Öı«óşÿÿÿÿ
+lsquid:S00100ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öı«óşÿÿÿÿ
+`squid:S4488ş"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ôÇƒ‚
+2squid:S3751…"Make this method "public".(Ó„˜µ
+gsquid:S00100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó„˜µ
+`squid:S4488„"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÏâĞÏ
+2squid:S3751‹"Make this method "public".(­°ª
+gsquid:S00100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­°ª
+esquid:S4488Š"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ƒúÂûÿÿÿÿ
+2squid:S3751‘"Make this method "public".(”éŠ
+gsquid:S00100‘"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”éŠ
+esquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(°Ë£íøÿÿÿÿ
+7squid:S3751—"Make this method "public".(·÷Ÿâşÿÿÿÿ
+lsquid:S00100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·÷Ÿâşÿÿÿÿ
+esquid:S4488–"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‚®Š¬ùÿÿÿÿ
+7squid:S3751"Make this method "public".(°ƒÚåüÿÿÿÿ
+lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ƒÚåüÿÿÿÿ
+`squid:S4488œ"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ĞÛ—ª
+2squid:S3751£"Make this method "public".(ªã¨§
+gsquid:S00100£"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªã¨§
+`squid:S4488¢"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Œ€Ê
+7squid:S3751©"Make this method "public".(ëÆÓîúÿÿÿÿ
+lsquid:S00100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÆÓîúÿÿÿÿ
+`squid:S4488¨"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ØŸßí
+7squid:S3751¯"Make this method "public".(„‹¾®üÿÿÿÿ
+lsquid:S00100¯"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„‹¾®üÿÿÿÿ
+`squid:S4488®"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(àãÈˆ
+7squid:S3751µ"Make this method "public".(‘Üè”üÿÿÿÿ
+lsquid:S00100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Üè”üÿÿÿÿ
+`squid:S4488´"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ŸğÁá
+2squid:S3751»"Make this method "public".(àú ğ
+`squid:S4488º"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(è¨·Ç
+7squid:S3751Á"Make this method "public".(ş ìÒúÿÿÿÿ
+esquid:S4488À"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(µ˜¼’ùÿÿÿÿ
+7squid:S3751Ç"Make this method "public".(±ö¡Çüÿÿÿÿ
+lsquid:S00100Ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ö¡Çüÿÿÿÿ
+esquid:S4488Æ"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‹Âˆşÿÿÿÿ
+2squid:S3751Í"Make this method "public".(…Å°»
+gsquid:S00100Í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Å°»
+`squid:S4488Ì"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ğ¨Õ’
+2squid:S3751Ó"Make this method "public".(¢‘§½
+gsquid:S00100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢‘§½
+esquid:S4488Ò"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(š¤òŞúÿÿÿÿ
+2squid:S3751Ù"Make this method "public".(äî§î
+gsquid:S00100Ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äî§î
+`squid:S4488Ø"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÛËî¾
+2squid:S3751ß"Make this method "public".(ñ°‘¶
+_squid:S4488Ş"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(šœ¸l
+7squid:S3751å"Make this method "public".(Êşß£ùÿÿÿÿ
+`squid:S4488ä"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ŸÖõ»
+7squid:S3751ë"Make this method "public".(÷è¦’øÿÿÿÿ
+lsquid:S00100ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷è¦’øÿÿÿÿ
+`squid:S4488ê"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(úÃÇ‹
+7squid:S3751ñ"Make this method "public".(·Ïãúÿÿÿÿ
+lsquid:S00100ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ïãúÿÿÿÿ
+`squid:S4488ğ"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÉŒíƒ
+7squid:S3751÷"Make this method "public".(´ö€úÿÿÿÿ
+lsquid:S00100÷"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ö€úÿÿÿÿ
+esquid:S4488ö"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(îì¥÷ÿÿÿÿÿ
+7squid:S3751ı"Make this method "public".(Ò‡Îúÿÿÿÿ
+lsquid:S00100ı"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò‡Îúÿÿÿÿ
+`squid:S4488ü"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÆÂ”ğ
+7squid:S3751ƒ"Make this method "public".(èûìùÿÿÿÿ
+lsquid:S00100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èûìùÿÿÿÿ
+`squid:S4488‚"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(öÌŒñ
+7squid:S3751‰"Make this method "public".(´è˜úÿÿÿÿ
+lsquid:S00100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´è˜úÿÿÿÿ
+`squid:S4488ˆ"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(×¯•Å
+1squid:S3751"Make this method "public".(ÂƒÅp
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂƒÅp
+esquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(é‰™ûÿÿÿÿ
+2squid:S3751•"Make this method "public".(šÓƒÌ
+gsquid:S00100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÓƒÌ
+esquid:S4488”"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÙîÄ½øÿÿÿÿ
+7squid:S3751›"Make this method "public".(ğ¨½Éûÿÿÿÿ
+lsquid:S00100›"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¨½Éûÿÿÿÿ
+esquid:S4488š"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‰ÚŒôıÿÿÿÿ

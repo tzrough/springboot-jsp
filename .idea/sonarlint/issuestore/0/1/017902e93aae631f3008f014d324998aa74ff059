@@ -1,0 +1,16 @@
+
+esquid:S1192y"IDefine a constant instead of duplicating this literal "keywords" 3 times.(üçíúÿÿÿÿ
+csquid:S1192B"GDefine a constant instead of duplicating this literal "status" 4 times.(„Âìæúÿÿÿÿ
+dsquid:S44880"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÏİÖ²øÿÿÿÿ
+asquid:S4488<"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÖŒóí
+_squid:S4488P"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ı´©
+fsquid:S4488^"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(öÒ·æúÿÿÿÿ
+_squid:S4488m"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ÿ­ÈÚ
+fsquid:S00100u"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™æ–å
+`squid:S4488t"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(éÇ·z
+dsquid:S4488}"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(·Îæ¬ıÿÿÿÿ
+fsquid:S00100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äã&
+gsquid:S4488…"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ùµñ½øÿÿÿÿ
+`squid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¼«ğä
+lsquid:S00100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üõİûÿÿÿÿ
+gsquid:S4488–"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¢¿ÇÑÿÿÿÿÿ
